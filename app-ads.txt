@@ -54,3 +54,4 @@ undertone.com, 4102, RESELLER
 verve.com, 14592, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 2169000724, RESELLER
 yieldmo.com , 2807970144171533194, RESELLER
+facebook.com, 932380707753759, DIRECT, c3e20eee3f780d68
